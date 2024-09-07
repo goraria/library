@@ -1,0 +1,1 @@
+UPDATE `Book` SET `borrowed` = %s WHERE `name_book` = %s
